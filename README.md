@@ -1,5 +1,8 @@
 # Final Project for Introduction to Data Science
 
+## Report Versions
+* baseline.txt - Run out-of-the-box lasso regression on numerical data
+* lasso-select-4-features - Add num-photos, num-features. Run lasso first to select 4 features and then train the lasso regression model
 ## Note for Collaborators
 You can follow the steps below to push your code:
 1. Use 'git clone' to download the repository.
